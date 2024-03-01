@@ -1,8 +1,5 @@
 # React-TypeScript---Course-for-Beginners
-
-
-
-# Type-Script-For-Beginners
+<br>
 
 <a href = "https://www.youtube.com/watch?v=FJDVKeh7RJI"> Link To Tutorial </a>
 
