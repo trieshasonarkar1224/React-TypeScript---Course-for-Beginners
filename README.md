@@ -12,127 +12,127 @@ Enlisted below are the things I learnt today. 👇
 <br>
 
 
-[1] Basic Types in Typescript
+✮[1] Basic Types in Typescript
 <br>
 
-[2] Object Type
+✮[2] Object Type
 <br>
 
-[3] Optional Field in Objects
+✮[3] Optional Field in Objects
 <br>
 
-[4] Array of Object Type
+✮[4] Array of Object Type
 <br>
 
-[5] Union Type
+✮[5] Union Type
 <br>
 
-[6] Function Types
+✮[6] Function Types
 <br>
 
-[7] Any Type
+✮[7] Any Type
 <br>
 
-[8] unknown and never Type
+✮[8] unknown and never Type
 <br>
 
-[9] Aliases ( type and interface )
+✮[9] Aliases ( type and interface )
 <br>
 
-[10] Extending types
+✮[10] Extending types
 <br>
 
-[11] Extending interface
+✮[11] Extending interface
 <br>
 
-[12] Extending Classes
+✮[12] Extending Classes
 <br>
 
-[13] Extending type with interface ( and vice versa )
+✮[13] Extending type with interface ( and vice versa )
 <br>
 
-[14] React with Typescript
+✮[14] React with Typescript
 <br>
 
-[15] Functional Component type
+✮[15] Functional Component type
 <br>
 
-[16] Creating Input UI
+✮[16] Creating Input UI
 <br>
 
-[17] useState Hook with Typescript
+✮[17] useState Hook with Typescript
 <br>
 
-[18] PropTypes - Passing props to component
+✮[18] PropTypes - Passing props to component
 <br>
 
-[19] Reusable todo interface
+✮[19] Reusable todo interface
 <br>
 
-[20] Passing function as props
+✮[20] Passing function as props
 <br>
 
-[21] Event Type in Typescript
+✮[21] Event Type in Typescript
 <br>
 
-[22] Create Todo Logic
+✮[22] Create Todo Logic
 <br>
 
-[23] useRef Hook with Typescript
+✮[23] useRef Hook with Typescript
 <br>
 
-[24] TodoList Component
+✮[24] TodoList Component
 <br>
 
-[25] Passing props to SingleTodo
+✮[25] Passing props to SingleTodo
 <br>
 
-[26] SingleTodo Component
+✮[26] SingleTodo Component
 <br>
 
-[27] Todo Complete Functionality
+✮[27] Todo Complete Functionality
 <br>
 
-[28] Delete Todo Functionality
+✮[28] Delete Todo Functionality
 <br>
 
-[29] Edit Todo Functionality
+✮[29] Edit Todo Functionality
 <br>
 
-[30] Edit Bug Fix
+✮[30] Edit Bug Fix
 <br>
 
-[31] useReducer Hook with Typescript
+✮[31] useReducer Hook with Typescript
 <br>
 
-[32] Homework for you
+✮[32] Homework for you
 <br>
 
-[33] Building App UI for Drag and Drop
+✮[33] Building App UI for Drag and Drop
 <br>
 
-[34] React Beautiful DnD Installation
+✮[34] React Beautiful DnD Installation
 <br>
 
-[35] completedTodos State
+✮[35] completedTodos State
 <br>
 
-[36] DragDropContext
+✮[36] DragDropContext
 <br>
 
-[37] Droppable Tag
+✮[37] Droppable Tag
 <br>
 
-[38] Draggable Tag
+✮[38] Draggable Tag
 <br>
 
-[39] onDragEnd Logic
+✮[39] onDragEnd Logic
 <br>
 
-[40] Drag and Drop Styling
+✮[40] Drag and Drop Styling
 <br>
 
-[41] Outro
+✮[41] Outro
 <br>
 
 https://github.com/trieshasonarkar1224/React-TypeScript---Course-for-Beginners/assets/147965443/3b348a41-ac0f-4056-907d-ce91f6f56985
