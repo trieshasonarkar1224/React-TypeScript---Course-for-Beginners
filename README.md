@@ -136,4 +136,4 @@ Enlisted below are the things I learnt today. 👇
 [41] Outro
 <br>
 
-<video controls src="2024-03-01-14-52-29.mp4" title="Title"></video>
+https://github.com/trieshasonarkar1224/React-TypeScript---Course-for-Beginners/assets/147965443/3b348a41-ac0f-4056-907d-ce91f6f56985
